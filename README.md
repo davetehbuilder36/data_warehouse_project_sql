@@ -1,4 +1,4 @@
-# SQL Data Warehouse Project | Bronze, Silver, Gold Architecture
+# SQL Data Warehouse Project | Medallion Architecture
 
 ## Project Overview
 This project demonstrates the design and implementation of a modern SQL Server data warehouse using the Medallion Architecture (Bronze, Silver, Gold layers).
